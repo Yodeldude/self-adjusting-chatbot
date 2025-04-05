@@ -1,0 +1,5 @@
+V 0.1
+-Set up a Logger that when ran you type into a cmd prompt and it logs what has been entered into the log file
+-Created a changelog
+-Created a repo
+-Exploded 17 fish
