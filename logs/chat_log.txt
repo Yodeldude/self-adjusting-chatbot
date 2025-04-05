@@ -1,0 +1,30 @@
+2025-04-04 20:12:57 - User: test
+2025-04-04 20:12:57 - Chatbot: This is a chatbot response.
+2025-04-04 20:12:58 - User: test
+2025-04-04 20:12:58 - Chatbot: This is a chatbot response.
+2025-04-04 20:18:55 - User: test
+2025-04-04 20:18:55 - Chatbot: This is a chatbot response.
+2025-04-04 20:21:00 - User: test
+2025-04-04 20:21:00 - Chatbot: This is a chatbot response.
+2025-04-04 20:21:03 - User: woah!
+2025-04-04 20:21:03 - Chatbot: This is a chatbot response.
+2025-04-04 20:21:13 - User: test
+2025-04-04 20:21:13 - Chatbot: This is a chatbot response.
+2025-04-04 20:21:16 - User: what did i fix??
+2025-04-04 20:21:16 - Chatbot: This is a chatbot response.
+2025-04-04 20:21:18 - User: idk
+2025-04-04 20:21:18 - Chatbot: This is a chatbot response.
+2025-04-04 20:21:20 - User: goodbye
+2025-04-04 20:21:20 - Chatbot: This is a chatbot response.
+21-04/04/25-2025 20:21:46 - User: Hello, chatbot!
+21-04/04/25-2025 20:21:46 - Chatbot: Hi, how can I help you today?
+21-04/04/25-2025 20:21:51 - User: Hello, chatbot!
+21-04/04/25-2025 20:21:51 - Chatbot: Hi, how can I help you today?
+22-04/04/25-2025 20:22:01 - User: test2
+22-04/04/25-2025 20:22:01 - Chatbot: This is a chatbot response.
+22-04/04/25-2025 20:22:03 - User: oh hey!
+22-04/04/25-2025 20:22:03 - Chatbot: This is a chatbot response.
+22-04/04/25-2025 20:22:09 - User: what's good my guy?
+22-04/04/25-2025 20:22:09 - Chatbot: This is a chatbot response.
+22-04/04/25-2025 20:22:11 - User: bees
+22-04/04/25-2025 20:22:11 - Chatbot: This is a chatbot response.
